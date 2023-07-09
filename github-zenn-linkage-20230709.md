@@ -1,3 +1,19 @@
+---
+title: "awsのセキュリティ"
+emoji: "🐡"
+type: "tech" # tech: 技術記事 / idea: アイデア
+topics: [aws]
+published: true
+---
+
+
+
+
+
+
+
+
+
 # AWS　責任共有モデルについて
 
 awsでは事故や障害が起きた際の責任の所在についてawsとサービスを利用する顧客で
